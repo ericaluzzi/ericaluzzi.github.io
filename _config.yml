@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erica Luzzi / Academic page"
+title                    : "Erica Luzzi / Home"
 title_separator          : "-"
 name                     : &name "Erica Luzzi"
 description              : &description "who am I?"
