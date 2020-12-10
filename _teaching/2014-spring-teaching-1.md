@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Jacobs University, Physics and Earth Sciences Department"
+
+location: "Bremen, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Teaching Assistant for the course of Structural Geology, October 2017 – May 2020 (with Prof. V. Unnithan)
+- Teaching Assistant for the course of Sedimentology, October 2017 – May 2020 (with Prof. V. Unnithan)
+- Teaching Assistant for the course of Space Science and Exploration, February 2018 – June 2018 (with Prof. A.P. Rossi)
+- Teaching Assistant during the VDI Summer School on Planetary Sciences for high-school students, 29th July 2019 – 3rd August 2019
+- Teaching Assistant during the VDI Summer School on Planetary Sciences for high-school students, 29th July 2018 – 5th August 2018
